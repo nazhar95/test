@@ -1,0 +1,15 @@
+Understand the HTML Structure
+Get familiar with HTML elements, HTML attributes and its values.
+HTML element
+h1, h1, ... , h6 for heading
+Google out "HTML Special Character" and try to type the paragraph tag as shown below
+<p>  <⁄p>
+img stand for image
+ul(unordered list) and ol(ordered list) with li as list item
+HTML attributes and value
+img tag have a "src" attribute with the actual image name as its value
+
+
+I know how to put images on my web page after this exercise
+
+The Nemo picture is inside a folder named "folder1" where "folder1" is inside "MyExercise" folder
